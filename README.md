@@ -1,6 +1,6 @@
 # Signal
-<b>Project Name:</b> Signal - a live bushfire reporting app
-<b>Team Name:</b> LitSquad (NSW)
+<b>Project Name:</b> Signal - a live bushfire reporting app<br>
+<b>Team Name:</b> LitSquad (NSW)<br>
 <b>Challenge:</b> Engaging communities in hazard reporting & safety (Challenge)<br>
 
 <b>Our Solution</b><br>
